@@ -401,9 +401,9 @@ h6 {
 }
 
 #hero .hero-info h2 span {
-  color: #74b5fc;
-  text-decoration: underline;
-}
+  color: #1172d9;
+/*   text-decoration: underline;
+ */}
 
 @media (max-width: 767px) {
   #hero .hero-info h2 {
